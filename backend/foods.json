@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1761591889799",
+    "name": "banana",
+    "destination": "New York, USA",
+    "description": "keep cool",
+    "quantity": "140",
+    "weight": "26",
+    "packaging": "Box",
+    "expiryDate": "2025-10-30",
+    "addedAt": "2025-10-27T19:04:49.799Z",
+    "userId": "1761585050390",
+    "currentLocation": "Cargo Plane - Atlantic Route",
+    "status": "In Transit",
+    "journeyPercentage": 80
+  },
+  {
+    "id": "1761592526107",
+    "name": "carrots",
+    "destination": "mumbai, india",
+    "description": "keep them dry ",
+    "quantity": "500",
+    "weight": "200",
+    "packaging": "Pallet",
+    "expiryDate": "2025-10-31",
+    "addedAt": "2025-10-27T19:15:26.107Z",
+    "userId": "1761585050390",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit",
+    "journeyPercentage": 85
+  },
+  {
+    "id": "1761592837722",
+    "name": "mangoes",
+    "destination": "arizona",
+    "description": "keep them untouched ",
+    "quantity": "1000",
+    "weight": "800",
+    "packaging": "Box",
+    "expiryDate": "2025-11-12",
+    "addedAt": "2025-10-27T19:20:37.722Z",
+    "userId": "1761585050390",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit",
+    "journeyPercentage": 92
+  }
+]

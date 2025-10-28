@@ -1,0 +1,1002 @@
+[
+  {
+    "temperature": 10.95,
+    "humidity": 29.83,
+    "timestamp": "2025-10-28T09:14:50.355Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 11.69,
+    "humidity": 32.15,
+    "timestamp": "2025-10-28T09:14:55.339Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 11.7,
+    "humidity": 27.71,
+    "timestamp": "2025-10-28T09:14:55.348Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "London Distribution Center, UK",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 11.38,
+    "humidity": 32.01,
+    "timestamp": "2025-10-28T09:14:55.357Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 11.13,
+    "humidity": 27.2,
+    "timestamp": "2025-10-28T09:15:00.341Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 10.4,
+    "humidity": 32,
+    "timestamp": "2025-10-28T09:15:00.351Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 11.85,
+    "humidity": 29.01,
+    "timestamp": "2025-10-28T09:15:00.359Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 12.31,
+    "humidity": 28.09,
+    "timestamp": "2025-10-28T09:15:05.342Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 10.58,
+    "humidity": 29.96,
+    "timestamp": "2025-10-28T09:15:05.345Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 11.16,
+    "humidity": 31.07,
+    "timestamp": "2025-10-28T09:15:05.348Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 10.83,
+    "humidity": 31.02,
+    "timestamp": "2025-10-28T09:15:10.343Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 12.45,
+    "humidity": 29.77,
+    "timestamp": "2025-10-28T09:15:10.353Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 13.16,
+    "humidity": 31.4,
+    "timestamp": "2025-10-28T09:15:10.361Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 14.49,
+    "humidity": 33.18,
+    "timestamp": "2025-10-28T09:15:15.345Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "Cargo Plane - Atlantic Route",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 12.98,
+    "humidity": 33.34,
+    "timestamp": "2025-10-28T09:15:15.354Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 14.46,
+    "humidity": 32.08,
+    "timestamp": "2025-10-28T09:15:15.361Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 16.32,
+    "humidity": 33.63,
+    "timestamp": "2025-10-28T09:15:20.348Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 16.68,
+    "humidity": 32.59,
+    "timestamp": "2025-10-28T09:15:20.357Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 15.09,
+    "humidity": 32.12,
+    "timestamp": "2025-10-28T09:15:20.365Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 13.25,
+    "humidity": 28.98,
+    "timestamp": "2025-10-28T09:15:25.349Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "Cargo Plane - Atlantic Route",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 13,
+    "humidity": 32.75,
+    "timestamp": "2025-10-28T09:15:25.358Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 11.34,
+    "humidity": 37.35,
+    "timestamp": "2025-10-28T09:15:25.366Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 10.94,
+    "humidity": 33.95,
+    "timestamp": "2025-10-28T09:15:30.349Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 10.44,
+    "humidity": 36.01,
+    "timestamp": "2025-10-28T09:15:30.352Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 9.51,
+    "humidity": 32.44,
+    "timestamp": "2025-10-28T09:15:30.355Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 9.61,
+    "humidity": 33.98,
+    "timestamp": "2025-10-28T09:15:35.351Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "Cargo Plane - Atlantic Route",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 8.2,
+    "humidity": 32.63,
+    "timestamp": "2025-10-28T09:15:35.354Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 6.84,
+    "humidity": 31.84,
+    "timestamp": "2025-10-28T09:15:35.357Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 8.71,
+    "humidity": 31.01,
+    "timestamp": "2025-10-28T09:15:40.353Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 8.27,
+    "humidity": 29.16,
+    "timestamp": "2025-10-28T09:15:40.363Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 6.93,
+    "humidity": 25.03,
+    "timestamp": "2025-10-28T09:15:40.370Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 7.96,
+    "humidity": 25.93,
+    "timestamp": "2025-10-28T09:15:45.356Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 6.82,
+    "humidity": 28.61,
+    "timestamp": "2025-10-28T09:15:45.366Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 7.66,
+    "humidity": 28.99,
+    "timestamp": "2025-10-28T09:15:45.374Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 7.6,
+    "humidity": 24.77,
+    "timestamp": "2025-10-28T09:15:50.358Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 6,
+    "humidity": 25.09,
+    "timestamp": "2025-10-28T09:15:50.368Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.84,
+    "humidity": 25.97,
+    "timestamp": "2025-10-28T09:15:50.376Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 4,
+    "humidity": 28.03,
+    "timestamp": "2025-10-28T09:15:55.358Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.97,
+    "humidity": 32.74,
+    "timestamp": "2025-10-28T09:15:55.368Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.13,
+    "humidity": 37.44,
+    "timestamp": "2025-10-28T09:15:55.376Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 4.96,
+    "humidity": 36.57,
+    "timestamp": "2025-10-28T09:16:00.361Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.65,
+    "humidity": 40.25,
+    "timestamp": "2025-10-28T09:16:00.371Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.2,
+    "humidity": 44.72,
+    "timestamp": "2025-10-28T09:16:00.379Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.51,
+    "humidity": 49.39,
+    "timestamp": "2025-10-28T09:16:05.363Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.04,
+    "humidity": 44.57,
+    "timestamp": "2025-10-28T09:16:05.373Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "London Distribution Center, UK",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 4.02,
+    "humidity": 45.19,
+    "timestamp": "2025-10-28T09:16:05.380Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 4.92,
+    "humidity": 42.72,
+    "timestamp": "2025-10-28T09:16:10.364Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.56,
+    "humidity": 46.07,
+    "timestamp": "2025-10-28T09:16:10.368Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.81,
+    "humidity": 45.29,
+    "timestamp": "2025-10-28T09:16:10.371Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 6.09,
+    "humidity": 49.99,
+    "timestamp": "2025-10-28T09:16:15.367Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.91,
+    "humidity": 53.36,
+    "timestamp": "2025-10-28T09:16:15.370Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.85,
+    "humidity": 56.05,
+    "timestamp": "2025-10-28T09:16:15.373Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.5,
+    "humidity": 52.12,
+    "timestamp": "2025-10-28T09:16:20.369Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.64,
+    "humidity": 56.94,
+    "timestamp": "2025-10-28T09:16:20.372Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.84,
+    "humidity": 59.85,
+    "timestamp": "2025-10-28T09:16:20.376Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.95,
+    "humidity": 56.7,
+    "timestamp": "2025-10-28T09:16:25.372Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 0,
+    "humidity": 54.15,
+    "timestamp": "2025-10-28T09:16:25.379Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.18,
+    "humidity": 52.32,
+    "timestamp": "2025-10-28T09:16:25.385Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.59,
+    "humidity": 47.53,
+    "timestamp": "2025-10-28T09:16:30.374Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.28,
+    "humidity": 47.26,
+    "timestamp": "2025-10-28T09:16:30.381Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.98,
+    "humidity": 49.48,
+    "timestamp": "2025-10-28T09:16:30.387Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.57,
+    "humidity": 48.96,
+    "timestamp": "2025-10-28T09:16:35.374Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 4.61,
+    "humidity": 47.17,
+    "timestamp": "2025-10-28T09:16:35.381Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.87,
+    "humidity": 47.19,
+    "timestamp": "2025-10-28T09:16:35.388Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.96,
+    "humidity": 49.93,
+    "timestamp": "2025-10-28T09:16:40.376Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.92,
+    "humidity": 52.5,
+    "timestamp": "2025-10-28T09:16:40.387Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.3,
+    "humidity": 51.73,
+    "timestamp": "2025-10-28T09:16:40.395Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.06,
+    "humidity": 53.1,
+    "timestamp": "2025-10-28T09:16:45.377Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.12,
+    "humidity": 48.39,
+    "timestamp": "2025-10-28T09:16:45.386Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 0.84,
+    "humidity": 43.63,
+    "timestamp": "2025-10-28T09:16:45.393Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 0,
+    "humidity": 44.28,
+    "timestamp": "2025-10-28T09:16:50.378Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 0,
+    "humidity": 41.99,
+    "timestamp": "2025-10-28T09:16:50.388Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 0,
+    "humidity": 41.6,
+    "timestamp": "2025-10-28T09:16:50.395Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.28,
+    "humidity": 41.68,
+    "timestamp": "2025-10-28T09:16:55.378Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.81,
+    "humidity": 42.72,
+    "timestamp": "2025-10-28T09:16:55.390Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.01,
+    "humidity": 45.66,
+    "timestamp": "2025-10-28T09:16:55.399Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.98,
+    "humidity": 41.88,
+    "timestamp": "2025-10-28T09:17:00.380Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.47,
+    "humidity": 38.06,
+    "timestamp": "2025-10-28T09:17:00.389Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.01,
+    "humidity": 36.21,
+    "timestamp": "2025-10-28T09:17:00.396Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.16,
+    "humidity": 32.58,
+    "timestamp": "2025-10-28T09:17:05.385Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.96,
+    "humidity": 34.36,
+    "timestamp": "2025-10-28T09:17:05.395Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 0.42,
+    "humidity": 30.81,
+    "timestamp": "2025-10-28T09:17:05.399Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.27,
+    "humidity": 30.63,
+    "timestamp": "2025-10-28T09:17:10.385Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.5,
+    "humidity": 26.95,
+    "timestamp": "2025-10-28T09:17:10.395Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.52,
+    "humidity": 24.9,
+    "timestamp": "2025-10-28T09:17:10.402Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.65,
+    "humidity": 23.33,
+    "timestamp": "2025-10-28T09:17:15.386Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.94,
+    "humidity": 23.16,
+    "timestamp": "2025-10-28T09:17:15.395Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 4.1,
+    "humidity": 25.81,
+    "timestamp": "2025-10-28T09:17:15.401Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.62,
+    "humidity": 29.23,
+    "timestamp": "2025-10-28T09:17:20.388Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.71,
+    "humidity": 31.04,
+    "timestamp": "2025-10-28T09:17:20.395Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 4.84,
+    "humidity": 34.62,
+    "timestamp": "2025-10-28T09:17:20.401Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York Distribution Center, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.27,
+    "humidity": 31.11,
+    "timestamp": "2025-10-28T09:17:25.389Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "Cargo Plane - Atlantic Route",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.1,
+    "humidity": 33.7,
+    "timestamp": "2025-10-28T09:17:25.401Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 5.66,
+    "humidity": 36.88,
+    "timestamp": "2025-10-28T09:17:25.408Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 6.31,
+    "humidity": 34.87,
+    "timestamp": "2025-10-28T09:17:30.390Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 4.47,
+    "humidity": 37.75,
+    "timestamp": "2025-10-28T09:17:30.401Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "London Distribution Center, UK",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 3.03,
+    "humidity": 40.77,
+    "timestamp": "2025-10-28T09:17:30.408Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.89,
+    "humidity": 41.31,
+    "timestamp": "2025-10-28T09:17:35.391Z",
+    "foodId": "1761591889799",
+    "foodName": "banana",
+    "destination": "New York, USA",
+    "currentLocation": "Cargo Plane - Atlantic Route",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 1.03,
+    "humidity": 41.35,
+    "timestamp": "2025-10-28T09:17:35.398Z",
+    "foodId": "1761592526107",
+    "foodName": "carrots",
+    "destination": "mumbai, india",
+    "currentLocation": "Paris Transit Hub, France",
+    "status": "In Transit"
+  },
+  {
+    "temperature": 2.67,
+    "humidity": 39.5,
+    "timestamp": "2025-10-28T09:17:35.405Z",
+    "foodId": "1761592837722",
+    "foodName": "mangoes",
+    "destination": "arizona",
+    "currentLocation": "New York JFK Airport, USA",
+    "status": "In Transit"
+  }
+]
